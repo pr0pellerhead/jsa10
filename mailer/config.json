@@ -1,0 +1,21 @@
+{
+    "weather": {
+        "api_key": "...",
+        "api_version": "2.5"
+    },
+    "db": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "dbname": ""
+    },
+    "mailer": {
+        "username": "api",
+        "api_key": "...",
+        "domain": "...",
+        "from": "Pero Perovski<pero@perovski.com>"
+    },
+    "service": {
+        "port": 9000
+    }
+}
